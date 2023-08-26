@@ -1,0 +1,20 @@
+//Dom-MSFT2-Controller.h: Felipe Carvalho Paleari, Joao Pedro Basso Coura, Joao Pedro de Souza Oliveira, Lucas Lombardi de Brito
+void gerarPecas();
+void embaralharPecas();
+void iniciarMenu();
+void iniciarJogo();
+void iniciarSubmenu();
+void jogar();
+void mudaLado();
+void verificacaodaPeca();
+void lancamentoEsquerda();
+void lancamentoDireita();
+void compraPeca();
+void trocaJogador();
+void teste();
+int verificaMao();
+int verificaMaoDosDois();
+void salvarJogo();
+void recuperarJogo();
+void jogaComputador();
+void flush_in();
